@@ -1,0 +1,1536 @@
+Traceback (most recent call last):
+  File "src/map.py", line 53, in <module>
+    for line in f:
+  File "/usr/lib/python3.6/zipfile.py", line 831, in readline
+    return io.BufferedIOBase.readline(self, limit)
+  File "/usr/lib/python3.6/zipfile.py", line 836, in peek
+    chunk = self.read(n)
+  File "/usr/lib/python3.6/zipfile.py", line 872, in read
+    data = self._read1(n)
+  File "/usr/lib/python3.6/zipfile.py", line 948, in _read1
+    data = self._decompressor.decompress(data, n)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "src/map.py", line 56, in <module>
+    tweet = json.loads(line)
+  File "/usr/lib/python3.6/json/__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.6/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.6/json/decoder.py", line 355, in raw_decode
+    obj, end = self.scan_once(s, idx)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "src/map.py", line 56, in <module>
+    tweet = json.loads(line)
+  File "/usr/lib/python3.6/json/__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.6/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.6/json/decoder.py", line 355, in raw_decode
+    obj, end = self.scan_once(s, idx)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
+Traceback (most recent call last):
+  File "src/map.py", line 76, in <module>
+    country_code = tweet['country_code']                  
+KeyError: 'country_code'
