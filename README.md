@@ -10,4 +10,4 @@ To visualize the outputs of each of these files, enter the following command:
 
 $ ./src/visualize.py --input_path=reduced.TYPE --key='HASHTAG'
 
-and replace [TYPE] with 'lang' or 'country' and [HASHTAG] with the one of the hashtags in the [viz](viz) folder.    
+and replace [TYPE] with 'lang' or 'country' and [HASHTAG] with the one of the hashtags in one of the two folders in [viz](viz).    
